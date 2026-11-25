@@ -1,0 +1,10 @@
+ZeroHex Software License (Freeware Binary Distribution)
+Copyright (c) 2026 Nabin Shah - LyapCare (https://lyapcare.com.np/)
+All rights reserved.
+
+1. Permission is granted to download, install, and use the official compiled
+   ZeroHex binaries free of charge for personal and commercial repair/technical use.
+2. Redistribution of modified binaries, reverse engineering, or claiming
+   authorship of ZeroHex is not permitted without written permission from the author.
+3. Source code for ZeroHex is proprietary and not licensed under an open-source license.
+4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
