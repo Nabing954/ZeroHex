@@ -11,7 +11,10 @@
 
 <p align="center">
   <a href="https://github.com/Nabing954/ZeroHex/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Nabing954/ZeroHex?label=Download%20Latest&style=for-the-badge&color=F59E0B" alt="Download Latest Release" />
+    <img src="https://img.shields.io/badge/Download-v1.0.0%20Free-F59E0B?style=for-the-badge" alt="Download ZeroHex v1.0.0" />
+  </a>
+  <a href="https://github.com/Nabing954/ZeroHex/releases">
+    <img src="https://img.shields.io/github/downloads/Nabing954/ZeroHex/total?style=for-the-badge&color=2563EB" alt="Total Downloads" />
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0F172A?style=for-the-badge" alt="Windows 10/11 x64" />
   <img src="https://img.shields.io/badge/Idle%20RAM-~15%20MB-10B981?style=for-the-badge" alt="Low RAM" />
